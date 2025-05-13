@@ -1,0 +1,7 @@
+# Site settings
+title: An Awesomeee Blog
+description: A blog about Awesomeee things
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://daiwiik-blog.com" # the base hostname & protocol
+
+theme: minima
